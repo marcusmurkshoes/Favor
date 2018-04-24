@@ -40,3 +40,50 @@ margin-left: 200px;
 	text-align: center;
 	font-weight: bold;
 }
+
+/*.contentDiv {
+
+  text-align: center;
+  font-size: 10px;
+
+}
+*/
+
+/*#icon1 {
+  margin-top: 45px;
+  margin-left: 220px;
+  position: absolute;
+
+}*/
+
+#icon2 {
+  margin-top: 45px;
+  position: absolute;
+  margin-left: 500px;
+
+}
+
+#icon3 {
+  margin-top: 45px;
+  position: absolute;
+  margin-left: 800px;
+
+}
+
+.card {
+  height: 500px;
+  width: 300px;
+  margin-left: 100px;
+  float: left;
+}
+
+.footer {
+
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
