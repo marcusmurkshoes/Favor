@@ -71,19 +71,19 @@ margin-left: 200px;
 }
 
 .card {
-  height: 500px;
+  height: 350px;
   width: 300px;
   margin-left: 100px;
   float: left;
 }
 
 .footer {
-
-   position: fixed;
-   left: 0;
-   bottom: 0;
+    
+   position: absolute;
    width: 100%;
    background-color: red;
    color: white;
    text-align: center;
+   margin-top: 900px;
+   height: 150px;
 }
